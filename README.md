@@ -1,1 +1,1 @@
-# ntelligent-Home-security-system-using-machine-learning-Iot-and-web-application
+# Intelligent-Home-security-system-using-machine-learning-Iot-and-web-application
